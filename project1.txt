@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is first line
 line 2
 line 3
 line 4
+=======
+this is first line
+>>>>>>> parent of 7a3cd6d (second commit)
